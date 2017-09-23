@@ -1,0 +1,8 @@
+,Model,Price,Quantity,Revenue,Door_Style,High_rev
+Honda,Civic,699.99,100,69999.0,Sedan,False
+Toyota,Camry,999.99,300,199998.0,Sedan,True
+Hyundai,Elantra,799.99,300,239997.0,Sedan,True
+Ford,Focus,899.99,400,359996.0,Sedan,True
+Mercedes,S Class,1299.99,300,389997.0,Coupe,True
+Infiniti,Q60,1099.99,100,109999.0,Coupe,False
+Nissan,370Z,1499.99,200,299998.0,Coupe,True
